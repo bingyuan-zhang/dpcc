@@ -1,0 +1,19 @@
+Package: dpcc
+Type: Package
+Title: Dynamic Programming for Convex Clustering
+Version: 1.0.0
+Author: Bingyuan Zhang, Jie Chen, Yoshikazu Terada
+Maintainer: Bingyuan Zhang <zhang@sigmath.es.osaka-u.ac.jp>
+Description: Use dynamic programming method to solve l1 convex clustering with idetical weights.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: False
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+LinkingTo: 
+    Rcpp
+Imports:
+    Rcpp
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
