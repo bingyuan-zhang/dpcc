@@ -83,6 +83,6 @@ ggplot(data) +
 References
 --------
 [1.] [Dynamic visualization for L1 fusion convex clustering in near-linear time] 
-Bingyuan Zhang, Yoshikazu Terada, Jie Chen (UAI 2021 to appear).
+Bingyuan Zhang, Jie Chen, Yoshikazu Terada (UAI 2021 to appear).
 
 
