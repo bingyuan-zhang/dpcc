@@ -12,11 +12,11 @@ convex clustering with identical weights.
 
 ## Installation
 
-You can install `dpcc` from GitHub with:
+You can install `dpcc` from GitHub or CRAN with:
 
 ``` r
-# install.packages("dpcc")
-devtools::install_github("bingyuan-zhang/dpcc")
+install.packages("dpcc")
+#devtools::install_github("bingyuan-zhang/dpcc")
 ```
 
 Load the packages.
